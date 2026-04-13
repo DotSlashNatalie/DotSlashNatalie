@@ -10,8 +10,8 @@ I have a wide variety of different projects.
 - ⚡ Fun fact: I host my own email. Please do not attempt that at home.
 - Biggest project: srchub - started as a fork of indefero but now I am running gitea
 
-My stats:
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dotslashnatalie&theme=radical)
 
-![DotSlashNatalie's stats](https://github-readme-stats.vercel.app/api?username=DotSlashNatalie&show_icons=true&theme=cobalt)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dotslashnatalie&theme=radical)
 
-
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dotslashnatalie&theme=radical)
